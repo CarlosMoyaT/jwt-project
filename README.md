@@ -1,2 +1,2 @@
-# jwt-project
-Pequeña aplicación aplicando JWT
+# Spring Security example project 
+Password manager collab, users security auth, security crypto...
